@@ -11,9 +11,10 @@
 
 
 # Getting to know me?
-- 👀 I’m particularly interested in Software Development
-- 🏫 I'm currently studying for a QQI Level 5 Certificate in Software Development. I hope to further my studies and progress to university to study Computer Science
-- 🔭 The language I am focused on currently is Python
-- 💻 I have played around with HTML, CSS, Javascript & Kotlin
-- 📝 I still consider myself a beginner in all of the languages I have mentioned. I am eager to further develop my skills in these languages
+- 👀 I’m particularly interested in Software Development.
+- 🏫 I'm currently a Second Year B.Sc Computer Science Student @ DCU. I am enjoying learning new languages and getting hands-on experience.
+  -  I have already obtained a QQI Level 5 Certificate in Software Development from the Drogheda Institute of Further Education (DIFE).
+- 🔭 The language I am most familiar with is Python.
+- 💻 I have played around with HTML, CSS, Javascript & Kotlin, and more recently C.
+- 📝 I still consider myself a beginner in all of the languages I have mentioned. I am eager to further develop my skills in these languages.
 
