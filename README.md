@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Adam</h1></summary>
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,kotlin">
+    <img src="https://skillicons.dev/icons?i=py,c,html,css,js,kotlin">
   </ul>
 </div>
 
